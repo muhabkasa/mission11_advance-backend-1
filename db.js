@@ -5,7 +5,7 @@ const db = mysql.createConnection({
     user: 'root',
     password: '',
     database: 'movie_app',
-    port: 3306 // Ubah angka ini menjadi 3306 menyesuaikan XAMPP kamu saat ini
+    port: 3306
 });
 
 db.connect((err) => {
