@@ -59,8 +59,8 @@ Tugas 9/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/muhabkasa/mission11_advance-backend-1.git
+cd mission11_advance-backend-1
 ```
 
 ### 2. Setup Database
